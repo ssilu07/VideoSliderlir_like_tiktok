@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "383436554751",
+    "firebase_url": "https://videoslider-22e2c.firebaseio.com",
+    "project_id": "videoslider-22e2c",
+    "storage_bucket": "videoslider-22e2c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:383436554751:android:2a2e7799d5a14cc7c567ca",
+        "android_client_info": {
+          "package_name": "com.study.videoslider"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "383436554751-ud00fkv8h0v2mksi42efe20omkntaerp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAiYJ-p6cRCdHW34qXWtolnq-Fk1JBbGmA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "383436554751-ud00fkv8h0v2mksi42efe20omkntaerp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
